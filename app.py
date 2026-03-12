@@ -22,7 +22,7 @@ SPOTIFY_REDIRECT_URI = os.environ.get('SPOTIFY_REDIRECT_URI', 'http://localhost:
 SPOTIFY_SCOPES = 'user-read-currently-playing user-read-playback-state'
 
 # n8n webhook URL for adding to queue
-N8N_WEBHOOK_URL = 'https://wheniwasyourman.app.n8n.cloud/webhook/370426b9-6937-4dec-901b-d81a9b6cafb7'
+N8N_WEBHOOK_URL = '#ADD YOUR N8N WEBHOOK URL HERE'
 
 # Cache for Spotify Client Credentials token (for search)
 _token_cache = {
