@@ -85,6 +85,4 @@ spotie/
     └── music-queue-manager.html
 ```
 
-## Lisensi
 
-MIT License
